@@ -1,0 +1,50 @@
+{
+  "name": "@eliav2/react-native-collapsible-view",
+  "version": "1.4.0",
+  "description": "A collapsible View element implemented using react-native-collapsible",
+  "main": "index.js",
+  "homepage": "https://eliav2.github.io/react-native-collapsible-view/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eliav2/react-native-collapsible-view"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start --prefix ./example"
+  },
+  "author": "Eliav Louski",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "react-native-collapsible": "^1.5.3",
+    "react-native-svg": "^12.1.0"
+  },
+  "devDependencies": {
+    "react": "^16.10.0",
+    "react-native": "^0.57.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-collapsible-view",
+    "view",
+    "collapsible",
+    "expandable",
+    "collapsed",
+    "expanded",
+    "animation",
+    "animated",
+    "spinner",
+    "IOS",
+    "Android",
+    "Web"
+  ],
+  "files": [
+    "index.js",
+    "ArrowDownIcon.js"
+  ]
+}
